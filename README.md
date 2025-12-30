@@ -24,7 +24,7 @@ Because the lasers alternate, I added logic for the laser that only the player w
 ## 📦 Running the Project
 1. Clone or download the repository
 2. Open the project cartridge in your PICO-8 application (that being said, you need to have the PICO-8 Fantasy Console). Launch it to start playing.
-3. Controls: Use **arrow keys** for movement, **“X”** key to jump. Navigate the level reaching the end goal without.
+3. Controls: Use **arrow keys** for movement, **“X”** key to jump. Reach the end goal without dying.
 
 ## 🖼️ Preview
 https://github.com/user-attachments/assets/6a7e8ed7-19f3-4f4a-b3e9-5e4238e11562
